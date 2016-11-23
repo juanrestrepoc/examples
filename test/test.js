@@ -11,7 +11,7 @@ describe('Add Test', function() {
 
     it('should have 1 when subtracting num2 and num1', function() {
         var result = num2 - num1;
-        expect(result).to.equal(2);
+        expect(result).to.equal(1);
     });
 
     it('should have 6 when multiplying num2 and num2', function() {
